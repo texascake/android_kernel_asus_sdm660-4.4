@@ -30,7 +30,6 @@
 #include <linux/device.h>
 /* Huaqin add by yuexinghan for ITO test end */
 #endif
-#include <linux/android_version.h>
 #include <linux/kernel.h>
 #include <linux/module.h>
 #include <linux/delay.h>
